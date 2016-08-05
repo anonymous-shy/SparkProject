@@ -5,6 +5,9 @@
     <groupId>cn.com.dwsoft</groupId>
     <artifactId>SparkProject</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>KafkaProject</module>
+    </modules>
     <packaging>pom</packaging>
 
     <name>SparkProject</name>
