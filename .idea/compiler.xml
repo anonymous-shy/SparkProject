@@ -25,9 +25,9 @@
         <module name="KafkaProject" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="1.7">
-      <module name="KafkaProject" target="1.7" />
-      <module name="SparkProject" target="1.7" />
+    <bytecodeTargetLevel target="1.8">
+      <module name="KafkaProject" target="1.8" />
+      <module name="SparkProject" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
